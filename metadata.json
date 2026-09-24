@@ -1,0 +1,6 @@
+{
+  "name": "Logic Hunt – Online MCQ Examination",
+  "description": "Official online MCQ examination platform for Logic Hunt: Think • Analyze • Solve. Features real-time countdown timer, dynamic question navigation, and secure result analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
